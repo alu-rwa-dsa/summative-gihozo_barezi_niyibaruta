@@ -1,8 +1,8 @@
 <h1>Check-in and Check out program implemented in python using linked lists</h1><br>
 <h3>Team members:</h3>
-Barezi Julien
-Gihozo Landelin
-Diane Niyibaruta
+Barezi Julien,
+Gihozo Landelin,
+Diane Niyibaruta.
 
 <h3>Data structures and algorithm used:</h3>
 Linked lists
