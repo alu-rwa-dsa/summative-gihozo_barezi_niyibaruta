@@ -1,12 +1,13 @@
 <h1>Check-in and Check out program implemented in python using linked lists</h1><br>
-Team members:
+<h3>Team members:</h3>
 Barezi Julien
 Gihozo Landelin
 Diane Niyibaruta
 
-Data structures and algorithm used: Linked lists
+<h3>Data structures and algorithm used:</h3>
+Linked lists
 
-Purpose of linked lists: 
+<h3>Purpose of linked lists:</h3> 
 
 Linked lists allow efficient insertion and deletion of elements which is the main reason we found them effective for our project.
 <h2>Project description</h2>
