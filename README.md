@@ -18,5 +18,11 @@ By the end of this project, we believe that we will have a program that is able 
 <h2>Motivation</h2>
 The idea of doing this program came up when our campus was closed due to an increase in covid 19 cases in Rwanda which led to the closing of schools. After the lockdown schools were reopened but for our campus, only a certain number of people was allowed to be on campus and it was not allowed to exceed that number. This is when the idea of developing a program that could allow recording the number of people on campus and be able to make sure only the allowed number of people is on campus and not exceed it.
 
+<h2>Technology used<h2>
+Python programming language
+<h2>How to run<h2>
+To run this project you need to clone this repository and run the file named DSA project using PyCharm and make sure you have the library called “Tabulate” installed in your PyCharm.
+
+
 
 
