@@ -95,11 +95,11 @@ This test gives a wrong output<br>
 
 <h2> Analysis of Algorithm</h2>
 
-First of all for deleting an element in our linked list the time complexity is ![](https://latex.codecogs.com/gif.latex?O%5Cleft%20%28%201%20%5Cright%20%29)  while the space complexity <br> is ![](https://latex.codecogs.com/gif.latex?O%5Cleft%20%28%20n%20%5Cright%20%29) <br>.
+First of all for deleting an element in our linked list the time complexity is ![first equation](https://latex.codecogs.com/gif.latex?O%5Cleft%20%28%201%20%5Cright%20%29)  while the space complexity <br> is ![second equation](https://latex.codecogs.com/gif.latex?O%5Cleft%20%28%20n%20%5Cright%20%29) <br>.
 
 n stands for the number of nodes in our linked list<br>
 This means that if for instance we have 3 nodes in our linked list<br>
-The space complexity would be equal to ![](https://latex.codecogs.com/gif.latex?O%5Cleft%20%28%203%20%5Cright%20%29) br>
+The space complexity would be equal to ![third equation](https://latex.codecogs.com/gif.latex?O%5Cleft%20%28%203%20%5Cright%20%29) br>
 
 For inserting an element the time complexity is ![](https://latex.codecogs.com/gif.latex?O%5Cleft%20%28%201%20%5Cright%20%29)  while the space complexity is ![](https://latex.codecogs.com/gif.latex?O%5Cleft%20%28%20n%20%5Cright%20%29) <br>
 
