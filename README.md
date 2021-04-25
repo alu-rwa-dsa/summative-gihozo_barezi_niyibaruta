@@ -21,9 +21,9 @@ The idea of doing this program came up when our campus was closed due to an incr
 <h2>Technology used</h2>
 Python programming language
 <h2>How to run</h2>
-To run this project you need to clone this repository and run the file named DSA project using PyCharm and make sure you have the library called “Tabulate” installed in your PyCharm.
+To run this project you need to clone this repository and run the file named DSA project using PyCharm and make sure you have the library called “Tabulate” installed in your PyCharm. to install it run:
 
-pip install tabulate
+[pip install tabulate]
 
 <h3>correctness of algorithm</h3>
 Please find in the repository a folder containing three test cases in which two of them give a correct oyput while the third one gives an incorrect output.
