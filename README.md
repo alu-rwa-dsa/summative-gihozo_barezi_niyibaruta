@@ -23,6 +23,75 @@ Python programming language
 <h2>How to run</h2>
 To run this project you need to clone this repository and run the file named DSA project using PyCharm and make sure you have the library called “Tabulate” installed in your PyCharm.
 
+<h3>correctness of algorithm</h3>
+Please find in the repository a folder containing three test cases in which two of them give a correct oyput while the third one gives an incorrect output.
+<h2>test number one</h2>
+import unittest
+from DSAproject import Node
+from DSAproject import LinkedList
+
+llist = LinkedList()
+first_node = Node(1, "Gihozo Lando", "g.lando@alustudent.com", "10:54", "3/3/2021")
+llist.head = first_node
+second_node = Node(2, "Barezi Julien", "b.julien@alustudent.com", "12:59", "3/4/2021")
+first_node.next = second_node
+third_node = Node(3, "Diane Niyibaruta", "d.niyibarut@alustudent.com", "11:32", "04/03/2021")
+second_node.next = third_node
+
+class MyTestCase(unittest.TestCase):
+    def test_count(self):
+        self.assertEqual(llist.count(), 3)
+
+
+if __name__ == '__main__':
+    unittest.main()
+    
+This test gives a correct output
+<h2>test number two</h2.
+  import unittest
+from DSAproject import Node
+from DSAproject import LinkedList
+
+llist = LinkedList()
+first_node = Node(1, "Gihozo Lando", "g.lando@alustudent.com", "10:54", "3/3/2021")
+llist.head = first_node
+second_node = Node(2, "Barezi Julien", "b.julien@alustudent.com", "12:59", "3/4/2021")
+first_node.next = second_node
+third_node = Node(3, "Diane Niyibaruta", "d.niyibarut@alustudent.com", "11:32", "04/03/2021")
+second_node.next = third_node
+
+class MyTestCase(unittest.TestCase):
+    def test_search(self):
+        self.assertEqual(llist.search(2), True)
+
+
+if __name__ == '__main__':
+    unittest.main()
+    
+This test gives a correct output
+<h2>test number three</h3>
+import unittest
+from DSAproject import Node
+from DSAproject import LinkedList
+
+llist = LinkedList()
+first_node = Node(1, "Gihozo Lando", "g.lando@alustudent.com", "10:54", "3/3/2021")
+llist.head = first_node
+second_node = Node(2, "Barezi Julien", "b.julien@alustudent.com", "12:59", "3/4/2021")
+first_node.next = second_node
+third_node = Node(3, "Diane Niyibaruta", "d.niyibarut@alustudent.com", "11:32", "04/03/2021")
+second_node.next = third_node
+
+class MyTestCase(unittest.TestCase):
+    def test_count(self):
+        self.assertEqual(llist.count(), 6)
+
+
+if __name__ == '__main__':
+    unittest.main()
+
+This test gives a wrong output
+
 
 
 
