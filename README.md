@@ -127,6 +127,14 @@ n stands for the number of nodes in our linked list<br>
 This means that if for instance we have 3 nodes in our linked list<br>
 The space complexity would be equal to ![](https://latex.codecogs.com/gif.latex?O%5Cleft%20%28%203%20%5Cright%20%29) <br>
 
+<h2>Solution</h2>
+<p>During this period of coronavirus it is very important to control the number of people in any place to make sure that the number of people in any gathering does not exceed the limited amount of people allowed in any gathering. After seeing this our peer group sat down and tried to find a solution to this problem, after many hours of thinking we decided to use the knowledge we acquired from data structures and algorithms and decided to use a data structure called linked lists to make an app that records the people entering s building and removing them from the recordings when they leave.</p><br>
+
+<p>This app is beneficial to the society for instance if people are gathered in a place and they want to know the number of people gathered there and make sure that they don’t exceed the number of people allowed there they can use our app because it has a functionality to count the number of people gathered at a certain event if every individual has been recorded upon them entering the event. This is very useful mostly in this period of coronavirus where it is important to knoe the number of people together in any event.</p><br>
+
+<h2>Link to video</h2>
+
+
 <h2>Reference</h2>
  Linked List. Brilliant.org. Retrieved 18:45, April 25, 2021, from https://brilliant.org/wiki/linked-lists/ <br>
 
