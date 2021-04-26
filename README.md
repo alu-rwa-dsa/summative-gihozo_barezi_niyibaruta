@@ -135,6 +135,9 @@ The space complexity would be equal to ![](https://latex.codecogs.com/gif.latex?
 <h2>Link to video</h2>
 
 
+https://drive.google.com/file/d/1iwsPa7khIR2fJKs6LGn18hNFjBnQkwEM/view
+
+
 <h2>Reference</h2>
  Linked List. Brilliant.org. Retrieved 18:45, April 25, 2021, from https://brilliant.org/wiki/linked-lists/ <br>
 
